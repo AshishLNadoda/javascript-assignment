@@ -1,1 +1,0 @@
-i hve used use console.log in this assignment to concat two string .
